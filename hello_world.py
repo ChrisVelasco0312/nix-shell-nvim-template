@@ -1,0 +1,3 @@
+denmark = 'DENMARK'
+print(denmark)
+
